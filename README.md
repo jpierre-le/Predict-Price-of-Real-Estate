@@ -1,2 +1,1 @@
-# Predict-Price-of-Real-Estate
-Predict Price of Real Estate through Jupyter Notebook
+## 広島の中古マンション価格を予測する
